@@ -5,6 +5,6 @@ Reusable images, animations and interactive learning activities for UK governmen
 ## Resources
 
 - Images and banners
-- Animations
+- Videos and animations
 - Interactive learning activities
 - Other digital learning assets
